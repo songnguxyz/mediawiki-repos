@@ -4,12 +4,12 @@ on:
   push:
     paths:
       - .github/workflows/mediawiki-repos-sorting-check.yml
-      - modules/mediawiki/data/mediawiki-repos.yaml
+      - mediawiki-repos.yaml
 
   pull_request:
     paths:
       - .github/workflows/mediawiki-repos-sorting-check.yml
-      - modules/mediawiki/data/mediawiki-repos.yaml
+      - mediawiki-repos.yaml
 
 jobs:
   check:
@@ -29,7 +29,6 @@ jobs:
 
       - name: Run YAML Sorting Check
         run: |
-          cd modules/mediawiki/data
           python3 -c '
           import yaml
 
