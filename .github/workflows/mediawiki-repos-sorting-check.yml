@@ -53,15 +53,15 @@ jobs:
   notify-irc:
     needs: check
     runs-on: ubuntu-latest
-    if: ${{ always() && github.repository_owner == 'WikiTideOrg' && ( github.ref == 'refs/heads/master' || github.event_name == 'pull_request' ) }}
+    if: ${{ always() && github.repository_owner == 'miraheze' && ( github.ref == 'refs/heads/master' || github.event_name == 'pull_request' ) }}
     steps:
       - name: failed
         uses: technote-space/workflow-conclusion-action@v3
       - uses: rectalogic/notify-irc@v2
         if: env.WORKFLOW_CONCLUSION == 'failure'
         with:
-          channel: "#wikitide-sre"
+          channel: "#miraheze-sre"
           server: "irc.libera.chat"
-          nickname: wikitide-github
+          nickname: miraheze-github
           message: ${{ github.repository }} - ${{ github.actor }} the build has errored.
-          sasl_password: ${{ secrets.IRC_WIKITIDEBOTS }}
+          sasl_password: ${{ secrets.IRC_MIRAHEZEBOTS }}
