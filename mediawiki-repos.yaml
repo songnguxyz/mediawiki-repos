@@ -132,11 +132,6 @@ CheckUser:
   branch: _branch_
   path: extensions/CheckUser
   repo_url: https://github.com/wikimedia/mediawiki-extensions-CheckUser
-CirrusSearch:
-  branch: _branch_
-  path: extensions/CirrusSearch
-  repo_url: https://github.com/wikimedia/mediawiki-extensions-CirrusSearch
-  composer: true
 Cite:
   branch: _branch_
   path: extensions/Cite
@@ -224,7 +219,7 @@ CreateRedirect:
 CreateWiki:
   branch: master
   path: extensions/CreateWiki
-  repo_url: https://github.com/WikiForge/CreateWiki
+  repo_url: https://github.com/miraheze/CreateWiki
   composer: true
 CreatedPagesList:
   branch: _branch_
@@ -311,11 +306,6 @@ Editcount:
   branch: _branch_
   path: extensions/Editcount
   repo_url: https://github.com/wikimedia/mediawiki-extensions-Editcount
-Elastica:
-  branch: _branch_
-  path: extensions/Elastica
-  repo_url: https://github.com/wikimedia/mediawiki-extensions-Elastica
-  composer: true
 EmbedSpotify:
   branch: master
   path: extensions/EmbedSpotify
@@ -642,6 +632,11 @@ Mirage:
   branch: _branch_
   path: skins/Mirage
   repo_url: https://github.com/wikimedia/mediawiki-skins-Mirage
+MirahezeMagic:
+  branch: master
+  path: extensions/MirahezeMagic
+  repo_url: https://github.com/miraheze/MirahezeMagic
+  latest: true
 MixedNamespaceSearchSuggestions:
   branch: _branch_
   path: extensions/MixedNamespaceSearchSuggestions
@@ -1263,11 +1258,6 @@ WikiTextLoggedInOut:
   branch: _branch_
   path: extensions/WikiTextLoggedInOut
   repo_url: https://github.com/wikimedia/mediawiki-extensions-WikiTextLoggedInOut
-WikiTideMagic:
-  branch: master
-  path: extensions/WikiTideMagic
-  repo_url: https://github.com/WikiTideOrg/WikiTideMagic
-  latest: true
 Wikibase:
   branch: _branch_
   path: extensions/Wikibase
