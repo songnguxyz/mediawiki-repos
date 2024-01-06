@@ -818,6 +818,11 @@ ParserFunctions:
   branch: _branch_
   path: extensions/ParserFunctions
   repo_url: https://github.com/wikimedia/mediawiki-extensions-ParserFunctions
+ParserMigration:
+  branch: _branch_
+  path: extensions/ParserMigration
+  repo_url: https://github.com/wikimedia/mediawiki-extensions-ParserMigration
+  versions: '1.41, 1.42'
 PdfHandler:
   branch: _branch_
   path: extensions/PdfHandler
