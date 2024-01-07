@@ -1021,10 +1021,6 @@ SnapProjectEmbed:
   branch: stable
   path: extensions/SnapProjectEmbed
   repo_url: https://github.com/snapwiki/SnapProjectEmbed
-snapwikiskin:
-  branch: stable
-  path: skins/snapwikiskin
-  repo_url: https://github.com/snapwiki/snapwikiskin
 SocialProfile:
   branch: master
   path: extensions/SocialProfile
@@ -1345,6 +1341,10 @@ mw-ScratchBlocks4:
   branch: master
   path: extensions/mw-ScratchBlocks4
   repo_url: https://github.com/InternationalScratchWiki/mw-ScratchBlocks4
+snapwikiskin:
+  branch: stable
+  path: skins/snapwikiskin
+  repo_url: https://github.com/snapwiki/snapwikiskin
 vendor:
   branch: _branch_
   path: vendor
