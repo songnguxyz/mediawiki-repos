@@ -314,6 +314,10 @@ EmbedVideo:
   branch: master
   path: extensions/EmbedVideo
   repo_url: https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo
+Evelution:
+  branch: main
+  path: skins/Evelution
+  repo_url: https://github.com/AWikia/SkinEvelution
 EventLogging:
   branch: _branch_
   path: extensions/EventLogging
