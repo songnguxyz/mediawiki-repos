@@ -967,6 +967,10 @@ SandboxLink:
   branch: _branch_
   path: extensions/SandboxLink
   repo_url: https://github.com/wikimedia/mediawiki-extensions-SandboxLink
+Score:
+  branch: _branch_
+  path: extensions/Score
+  repo_url: https://github.com/wikimedia/mediawiki-extensions-Score
 Scribunto:
   branch: _branch_
   path: extensions/Scribunto
