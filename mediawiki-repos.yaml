@@ -1021,6 +1021,10 @@ SnapProjectEmbed:
   branch: stable
   path: extensions/SnapProjectEmbed
   repo_url: https://github.com/snapwiki/SnapProjectEmbed
+snapwikiskin:
+  branch: stable
+  path: skins/snapwikiskin
+  repo_url: https://github.com/snapwiki/snapwikiskin
 SocialProfile:
   branch: master
   path: extensions/SocialProfile
