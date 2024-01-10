@@ -12,6 +12,7 @@ example_repo:
   repo_url: 'https://github.com/example/example-repo'
   path: 'extensions/example'
   branch: 'REL1_X'
+  commit: '1234abc'
   alpha_branch: 'main'
   shallow_submodules: true
   composer: true
@@ -37,14 +38,17 @@ example_repo:
 6. branch:
    - The Git branch to be cloned. If '_branch_' is used, it adapts based on the main MediaWiki branch.
 
-7. alpha_branch:
+7. commit:
+   - Optional. The Git commit to checkout. Requires branch to be set to a real branch that the commit exists on.
+
+8. alpha_branch:
    - Optional. The alpha branch to be used if the MediaWiki core branch is 'master'. This is only needed if the repo's main branch is not also 'master'.
 
-8. shallow_submodules:
+9. shallow_submodules:
    - Optional. If set to true, clones submodules with only the latest commit.
-
-9. composer:
-   - Optional. If set to true, runs Composer install for the repository.
   
+10. composer:
+    - Optional. If set to true, runs Composer install for the repository.
+
 
 **NOTE**: top-level keys in [mediawiki-repos.yaml](mediawiki-repos.yaml) **MUST** be sorted alphabetically.
