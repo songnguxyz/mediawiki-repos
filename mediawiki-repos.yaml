@@ -971,10 +971,17 @@ SandboxLink:
   branch: _branch_
   path: extensions/SandboxLink
   repo_url: https://github.com/wikimedia/mediawiki-extensions-SandboxLink
+SaneCase:
+  branch: master
+  repo_url: https://github.com/ciencia/mediawiki-extensions-SaneCase
 Score:
   branch: _branch_
   path: extensions/Score
   repo_url: https://github.com/wikimedia/mediawiki-extensions-Score
+Screenplay:
+  branch: _branch_
+  path: extensions/Screenplay
+  repo_url: https://github.com/wikimedia/mediawiki-extensions-Screenplay
 Scribunto:
   branch: _branch_
   path: extensions/Scribunto
