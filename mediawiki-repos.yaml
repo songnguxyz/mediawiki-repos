@@ -743,7 +743,7 @@ Newsletter:
   path: extensions/Newsletter
   repo_url: https://github.com/wikimedia/mediawiki-extensions-Newsletter
 Nimbus:
-  branch: _branch_
+  branch: master
   path: skins/Nimbus
   repo_url: https://github.com/wikimedia/mediawiki-skins-Nimbus
 NoTitle:
