@@ -50,5 +50,4 @@ example_repo:
 10. composer:
     - Optional. If set to true, runs Composer install for the repository.
 
-
 **NOTE**: top-level keys in [mediawiki-repos.yaml](mediawiki-repos.yaml) **MUST** be sorted alphabetically.
