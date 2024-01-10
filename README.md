@@ -36,7 +36,7 @@ example_repo:
    - The path where the repository will be cloned.
 
 6. branch:
-   - The Git branch to be cloned. If '_branch_' is used, it adapts based on the main MediaWiki branch.
+   - The Git branch to be cloned. If '\_branch\_' is used, it adapts based on the main MediaWiki branch.
 
 7. commit:
    - Optional. The Git commit to checkout. Requires branch to be set to a real branch that the commit exists on.
