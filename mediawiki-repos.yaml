@@ -1380,3 +1380,7 @@ wikihiero:
   branch: _branch_
   path: extensions/wikihiero
   repo_url: https://github.com/wikimedia/mediawiki-extensions-wikihiero
+sanecase:
+  branch: master
+  path: extensions/SaneCase
+  repo_url: https://github.com/ciencia/mediawiki-extensions-SaneCase
