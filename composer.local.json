@@ -1,6 +1,6 @@
 {
 	"require": {
-		"psy/psysh": "^0.11.1"
+		"psy/psysh": "^0.11.1 || ^0.12.0"
 	},
 	"extra": {
 		"merge-plugin": {
