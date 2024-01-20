@@ -970,7 +970,7 @@ Report:
   path: extensions/Report
   repo_url: https://github.com/wikimedia/mediawiki-extensions-Report
 RequestSSL:
-  branch: main
+  branch: master
   path: extensions/RequestSSL
   repo_url: https://github.com/miraheze/RequestSSL
 RevisionSlider:
