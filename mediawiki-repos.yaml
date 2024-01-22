@@ -307,10 +307,6 @@ Echo:
   branch: _branch_
   path: extensions/Echo
   repo_url: https://github.com/wikimedia/mediawiki-extensions-Echo
-EditNotify:
-  branch: _branch_
-  path: extensions/EditNotify
-  repo_url: https://github.com/wikimedia/mediawiki-extensions-EditNotify
 EditSubpages:
   branch: _branch_
   path: extensions/EditSubpages
