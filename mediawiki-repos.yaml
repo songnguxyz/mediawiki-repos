@@ -1023,6 +1023,10 @@ SemanticMediaWiki:
   path: extensions/SemanticMediaWiki
   repo_url: https://github.com/SemanticMediaWiki/SemanticMediaWiki
   composer: true
+SemanticScribunto:
+  branch: _branch_
+  path: extensions/SemanticScribunto
+  repo_url: https://github.com/SemanticMediaWiki/SemanticScribunto
 Share:
   branch: master
   path: extensions/Share
