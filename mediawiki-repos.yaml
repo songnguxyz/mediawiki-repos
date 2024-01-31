@@ -918,7 +918,7 @@ RandomGameUnit:
   path: extensions/RandomGameUnit
   repo_url: https://github.com/wikimedia/mediawiki-extensions-RandomGameUnit
 RandomImage:
-  branch: _branch_
+  branch: master
   path: extensions/RandomImage
   repo_url: https://github.com/wikimedia/mediawiki-extensions-RandomImage
 RandomSelection:
