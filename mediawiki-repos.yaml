@@ -370,6 +370,10 @@ ForcePreview:
   branch: _branch_
   path: extensions/ForcePreview
   repo_url: https://github.com/wikimedia/mediawiki-extensions-ForcePreview
+Foreground:
+  branch: _branch_
+  path: skins/Foreground
+  repo_url: https://github.com/wikimedia/mediawiki-skins-Foreground
 Gadgets:
   branch: _branch_
   path: extensions/Gadgets
