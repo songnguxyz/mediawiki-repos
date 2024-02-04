@@ -1031,6 +1031,7 @@ SemanticScribunto:
   branch: master
   path: extensions/SemanticScribunto
   repo_url: https://github.com/SemanticMediaWiki/SemanticScribunto
+  composer: true
 Share:
   branch: master
   path: extensions/Share
