@@ -23,7 +23,7 @@ AdvancedSearch:
   path: extensions/AdvancedSearch
   repo_url: https://github.com/wikimedia/mediawiki-extensions-AdvancedSearch
 Anisa:
-  branch: _branch_
+  branch: master
   path: skins/Anisa
   repo_url: https://github.com/wikimedia/mediawiki-skins-Anisa
 AntiSpoof:
