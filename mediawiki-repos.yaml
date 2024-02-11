@@ -953,6 +953,10 @@ Report:
   branch: master
   path: extensions/Report
   repo_url: https://github.com/wikimedia/mediawiki-extensions-Report
+ReportIncident:
+  branch: _branch_
+  path: extensions/ReportIncident
+  repo_url: https://github.com/wikimedia/mediawiki-extensions-ReportIncident
 RequestSSL:
   branch: master
   path: extensions/RequestSSL
