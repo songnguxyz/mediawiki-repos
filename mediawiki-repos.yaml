@@ -631,7 +631,7 @@ Mermaid:
   path: extensions/Mermaid
   repo_url: https://github.com/SemanticMediaWiki/Mermaid
 MessageCachePerformance:
-  branch: main
+  branch: master
   path: extensions/MessageCachePerformance
   repo_url: https://github.com/miraheze/MessageCachePerformance
 Metrolook:
