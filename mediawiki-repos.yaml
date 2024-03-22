@@ -328,6 +328,10 @@ Evelution:
   branch: main
   path: skins/Evelution
   repo_url: https://github.com/AWikia/SkinEvelution
+EventBus:
+  branch: _branch_
+  path: extensions/EventBus
+  repo_url: https://github.com/wikimedia/mediawiki-extensions-EventBus
 EventLogging:
   branch: _branch_
   path: extensions/EventLogging
