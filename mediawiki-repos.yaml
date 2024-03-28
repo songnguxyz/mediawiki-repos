@@ -336,6 +336,10 @@ EventLogging:
   branch: _branch_
   path: extensions/EventLogging
   repo_url: https://github.com/wikimedia/mediawiki-extensions-EventLogging
+EventStreamConfig:
+  branch: _branch_
+  path: extensions/EventStreamConfig
+  repo_url: https://github.com/wikimedia/mediawiki-extensions-EventStreamConfig
 ExternalData:
   branch: master
   path: extensions/ExternalData
