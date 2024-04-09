@@ -49,7 +49,7 @@ example_repo:
    - Optional. If set to false, will not clone any existing submodules.
 
 10. shallow_submodules:
-   - Optional. If set to true, clones submodules with only the latest commit.
+    - Optional. If set to true, clones submodules with only the latest commit.
   
 11. composer:
     - Optional. If set to true, runs Composer install for the repository.
