@@ -1021,6 +1021,7 @@ SemanticFormsSelect:
   branch: master
   path: extensions/SemanticFormsSelect
   repo_url: https://github.com/SemanticMediaWiki/SemanticFormsSelect
+  recurse_submodules: false
 SemanticScribunto:
   branch: master
   path: extensions/SemanticScribunto
