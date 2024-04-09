@@ -14,6 +14,7 @@ example_repo:
   branch: 'REL1_X'
   commit: '1234abc'
   alpha_branch: 'main'
+  recurse_submodules: false
   shallow_submodules: true
   composer: true
 ```
@@ -44,10 +45,13 @@ example_repo:
 8. alpha_branch:
    - Optional. The alpha branch to be used if the MediaWiki core branch is 'master'. This is only needed if the repo's main branch is not also 'master'.
 
-9. shallow_submodules:
+9. recurse_submodules:
+   - Optional. If set to false, will not clone any existing submodules.
+
+10. shallow_submodules:
    - Optional. If set to true, clones submodules with only the latest commit.
   
-10. composer:
+11. composer:
     - Optional. If set to true, runs Composer install for the repository.
 
 **NOTE**: top-level keys in [mediawiki-repos.yaml](mediawiki-repos.yaml) **MUST** be sorted alphabetically.
