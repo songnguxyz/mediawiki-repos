@@ -1310,7 +1310,6 @@ WikiLove:
   repo_url: https://github.com/wikimedia/mediawiki-extensions-WikiLove
 WikiSEO:
   branch: master
-  commit: acf14df
   path: extensions/WikiSEO
   repo_url: https://github.com/wikimedia/mediawiki-extensions-WikiSEO
 WikiTextLoggedInOut:
