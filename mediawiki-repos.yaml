@@ -795,6 +795,10 @@ OpenGraphMeta:
   branch: _branch_
   path: extensions/OpenGraphMeta
   repo_url: https://github.com/wikimedia/mediawiki-extensions-OpenGraphMeta
+OreDict:
+  branch: master
+  path: extensions/OreDict
+  repo_url: https://github.com/FTB-Gamepedia/OreDict
 OrphanedTalkPages:
   branch: _branch_
   path: extensions/OrphanedTalkPages
@@ -1148,6 +1152,10 @@ Theme:
   branch: _branch_
   path: extensions/Theme
   repo_url: https://github.com/wikimedia/mediawiki-extensions-Theme
+Tilesheets:
+  branch: master
+  path: extensions/Tilesheets
+  repo_url: https://github.com/FTB-Gamepedia/Tilesheets
 TimeMachine:
   branch: _branch_
   path: extensions/TimeMachine
