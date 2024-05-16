@@ -1050,6 +1050,10 @@ ShortDescription:
   branch: master
   path: extensions/ShortDescription
   repo_url: https://github.com/StarCitizenTools/mediawiki-extensions-ShortDescription
+SimpleBatchUpload:
+  branch: master
+  path: extensions/SimpleBatchUpload
+  repo_url: https://github.com/ProfessionalWiki/SimpleBatchUpload
 SimpleBlogPage:
   branch: master
   path: extensions/SimpleBlogPage
