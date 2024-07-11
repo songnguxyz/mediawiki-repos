@@ -178,7 +178,7 @@ Commentbox:
   path: extensions/Commentbox
   repo_url: https://github.com/wikimedia/mediawiki-extensions-Commentbox
 Comments:
-  branch: commit
+  branch: master
   path: extensions/Comments
   repo_url: https://github.com/wikimedia/mediawiki-extensions-Comments
 CommonsMetadata:
