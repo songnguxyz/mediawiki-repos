@@ -1200,6 +1200,10 @@ Timeline:
   branch: _branch_
   path: extensions/Timeline
   repo_url: https://github.com/wikimedia/mediawiki-extensions-Timeline
+TimezoneConverter:
+  branch: master
+  path: extensions/TimezoneConverter
+  repo_url: https://github.com/samwilson/TimezoneConverter
 TitleBlacklist:
   branch: _branch_
   path: extensions/TitleBlacklist
