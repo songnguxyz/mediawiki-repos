@@ -206,7 +206,7 @@ Cosmos:
   path: skins/Cosmos
   repo_url: https://github.com/wikimedia/mediawiki-skins-Cosmos
 CountDownClock:
-  branch: _branch_
+  branch: master
   path: extensions/CountDownClock
   repo_url: https://github.com/wikimedia/mediawiki-extensions-CountDownClock
 CreatePage:
