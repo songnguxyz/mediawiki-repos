@@ -1287,8 +1287,8 @@ UserPageEditProtection:
   repo_url: https://github.com/wikimedia/mediawiki-extensions-UserPageEditProtection
 UserProfileV2:
   branch: main
-  repo_url: https://gitlab.com/telepedia/extensions/userprofilev2
   path: extensions/UserProfileV2
+  repo_url: https://gitlab.com/telepedia/extensions/userprofilev2
 VEForAll:
   branch: _branch_
   path: extensions/VEForAll
